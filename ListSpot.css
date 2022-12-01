@@ -1,0 +1,46 @@
+.img-1 {
+     background-image: url(Images/balige.jpg);
+    background-size: cover;
+    height: 770px;
+    margin-top: -100px;
+    background-attachment: fixed;
+}
+#Wisata .image-1{
+    background-image: url(Images/balige.jpg);
+
+    height: 20vh;
+}
+#Wisata .image-2{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#Wisata .image-4{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#Wisata .image-5{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#Wisata .image-6{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#Wisata .image-7{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#Wisata .image-8{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#Wisata .image-9{
+    background-image: url(Images/balige.jpg);
+    height: 20vh;
+}
+#judul{
+    text-align: center;
+    padding-top: 15%;
+    height: 770px;
+
+}
